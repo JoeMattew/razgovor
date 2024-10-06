@@ -14,7 +14,7 @@ const About = () => {
 
       <div className="flex justify-center my-10"> {/* Centering the iframe */}
         <iframe 
-          className="w-2/3 h-64 rounded-lg md:h-80"  // Width set to 2/3
+          className="w-full max-w-screen-md h-64 md:h-80 rounded-lg"  // Width set to 2/3
           src="https://www.youtube.com/embed/r1IT6aAPYUE" 
           title="YouTube video player" 
           frameBorder="0" 
