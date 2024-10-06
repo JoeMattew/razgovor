@@ -6,7 +6,8 @@ const Header = () => {
   return (
     <header 
       id="up" 
-      className="bg-center bg-fixed bg-no-repeat bg-cover h-screen relative"
+      className="bg-center bg-fixed bg-no-repeat h-screen relative
+                 bg-cover md:bg-contain"
       style={{ backgroundImage: `url(${backgroundImage})` }} // Replace with your background image path
     >
         <div className="absolute inset-0 bg-black opacity-70"></div>
