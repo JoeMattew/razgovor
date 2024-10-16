@@ -2,21 +2,7 @@ import React from 'react';
 
 const Form = () => {
   return (
-    <div>
-      {/* Replace the action URL and inputs with the one provided by Loops */}
-      <form action="https://app.loops.so/api/newsletter-form/your-form-id" method="POST">
-        <input
-          type="email"
-          name="email"
-          placeholder="Enter your email"
-          required
-          style={{ padding: '10px', marginBottom: '10px' }}
-        />
-        <button type="submit" style={{ padding: '10px 20px', backgroundColor: '#3498db', color: '#fff' }}>
-          Subscribe
-        </button>
-      </form>
-    </div>
+    <div className="w-full max-w-3xl mx-auto px-6 py-28" id="omnisend-embedded-v2-670a46ea518f7d3017ccebbd"></div>
   );
 };
 

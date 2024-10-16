@@ -47,8 +47,7 @@ const Timeline = () => {
           </div>
         </div>
       </div>
-      <div id="omnisend-embedded-v2-670a46ea518f7d3017ccebbd"></div>
-    </div>
+      </div>
   );
 };
 
