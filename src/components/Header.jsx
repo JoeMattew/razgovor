@@ -20,7 +20,7 @@ const Header = () => {
           Интерактивные <span className="text-white">уроки</span> по <span className="text-white">программированию</span> 
           </h2>
           <div className="inline-flex">
-          <a href="#omnisend-embedded-v2-670a46ea518f7d3017ccebbdq">
+          <a href="#omnisend-embedded-v2-670a46ea518f7d3017ccebbd">
   <button className="p-2 my-5 mx-2 bg-indigo-700 hover:bg-indigo-800 font-bold text-white rounded border-2 border-transparent hover:border-indigo-800 shadow-md transition duration-500 md:text-xl">
   Бесплатный урок
   </button>
