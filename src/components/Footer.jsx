@@ -28,7 +28,7 @@ const Footer = () => {
             className="mx-auto rounded-lg font-black mt-5 text-zinc-400 md:mt-12 md:max-w-lg text-center lg:text-lg"
           >
             <a
-              href="https://t.me/kidc0de"
+              href="https://t.me/marat5686"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-tkb border text-sm text-white py-3 px-7 rounded-full"
