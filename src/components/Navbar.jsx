@@ -20,8 +20,9 @@ const Navbar = () => {
 
         {/* Links: visible on medium and large screens, hidden on small screens */}
         <div className="hidden sm:flex items-center">
-          <a href="#about-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Обо мне</a>
-          <a href="#whywe-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Аргумент</a>
+          
+          {/* <a href="#about-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Обо мне</a> */}
+          <a href="#whywe-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Scratch</a>
           {/* <a href="#" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Процедура</a> */}
         </div>
       </nav>
@@ -30,3 +31,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
