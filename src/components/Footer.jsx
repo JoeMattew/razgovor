@@ -11,7 +11,7 @@ const Footer = () => {
             className="text-3xl font-extrabold leading-10 tracking-tight text-white sm:leading-none md:text-6xl lg:text-7xl"
           >
             {/* Ensure this part stays centered */}
-            <span className="block">Группа в</span>
+            {/* <span className="block">Группа в</span> */}
             {/* This will still be block on small screens and become inline-block on larger ones */}
             <span
               className="mt-2 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-emerald-400 to-green-500 block md:inline-block"
@@ -33,7 +33,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="bg-tkb border text-sm text-white py-3 px-7 rounded-full"
             >
-              KidCode
+              Teacher
             </a>
           </div>
         </div>

@@ -13,12 +13,13 @@ const Header = () => {
       {/* Overlay Background + Center Control */}
       <div className="relative z-10 h-screen bg-opacity-50 flex items-center justify-center">
         <div className="mx-2 text-center">
+          
+          <h3 className="text-gray-200 font-extrabold text-3xl xs:text-4xl md:text-5xl leading-tight">
+          Онлайн <span className="text-white">уроки</span> программирования <span className="text-white">на</span> <span className="text-white">платформе</span>
+          </h3>
           <h1 className="text-gray-100 font-extrabold text-4xl xs:text-5xl md:text-6xl">
-            <span className="text-white">Kidcode</span>
+            <span className="text-white">Scratch</span>
           </h1>
-          <h2 className="text-gray-200 font-extrabold text-3xl xs:text-4xl md:text-5xl leading-tight">
-          Интерактивные <span className="text-white">уроки</span> по <span className="text-white">программированию</span> 
-          </h2>
           <div className="inline-flex">
           <a href="#omnisend-embedded-v2-670a46ea518f7d3017ccebbd">
   <button className="p-2 my-5 mx-2 bg-indigo-700 hover:bg-indigo-800 font-bold text-white rounded border-2 border-transparent hover:border-indigo-800 shadow-md transition duration-500 md:text-xl">

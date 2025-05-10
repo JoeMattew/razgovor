@@ -15,13 +15,13 @@ const Navbar = () => {
         
         {/* KidCode text: centered on large/medium screens, moved to the right on small screens */}
         <div className="flex-grow text-right sm:text-center">
-          <span className="text-xl font-bold no-underline text-black">KidCode</span>
+          <span className="text-xl font-bold no-underline text-black">Teacher Matt</span>
         </div>
 
         {/* Links: visible on medium and large screens, hidden on small screens */}
         <div className="hidden sm:flex items-center">
-          <a href="#about-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">О нас</a>
-          <a href="#whywe-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Почему мы</a>
+          <a href="#about-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Обо мне</a>
+          <a href="#whywe-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Аргумент</a>
           {/* <a href="#" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Процедура</a> */}
         </div>
       </nav>
