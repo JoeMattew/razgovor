@@ -15,7 +15,7 @@ const Navbar = () => {
         
         {/* KidCode text: centered on large/medium screens, moved to the right on small screens */}
         <div className="flex-grow text-right sm:text-center">
-          <span className="text-xl font-bold no-underline text-black">Teacher Matt</span>
+          <span className="text-xl font-bold no-underline text-black">Teacher Marat</span>
         </div>
 
         {/* Links: visible on medium and large screens, hidden on small screens */}

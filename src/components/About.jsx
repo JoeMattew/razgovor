@@ -15,7 +15,8 @@ const About = () => {
       <div className="flex justify-center my-10"> {/* Centering the iframe */}
         <iframe 
           className="w-full max-w-screen-md h-64 md:h-80 rounded-lg"  // Width set to 2/3
-          src="https://www.youtube.com/embed/r1IT6aAPYUE" 
+          src="https://www.youtube.com/embed/H9vYIRJezpY" 
+          // https://youtu.be/H9vYIRJezpY
           title="YouTube video player" 
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
