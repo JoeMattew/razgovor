@@ -15,10 +15,10 @@ const Header = () => {
         <div className="mx-2 text-center">
           
           <h3 className="text-gray-200 font-extrabold text-3xl xs:text-4xl md:text-5xl leading-tight">
-          Онлайн <span className="text-white">уроки</span> программирования <span className="text-white">на</span> <span className="text-white">платформе</span>
+          Онлайн <span className="text-white">уроки</span> Английского <span className="text-white">без</span> <span className="text-white">зубрежки!</span>
           </h3>
           <h1 className="text-gray-100 font-extrabold text-4xl xs:text-5xl md:text-6xl">
-            <span className="text-white">Scratch</span>
+            {/* <span className="text-white">Scratch</span> */}
           </h1>
           <div className="inline-flex">
           {/* <a href="#omnisend-embedded-v2-670a46ea518f7d3017ccebbd"> */}

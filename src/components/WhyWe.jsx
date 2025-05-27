@@ -7,11 +7,10 @@ const WhyWe = () => {
   return (
     <div id="whywe-section" className="flex justify-center items-center min-h-screen px-4 py-28">
       <div className="max-w-[1200px] mx-auto text-center">
-        <h2 className="text-center text-2xl font-bold mb-8">Scratch</h2>
+        <h2 className="text-center text-2xl font-bold mb-8">Почему мне доверяют ученики</h2>
         <p className="mt-2 leading-normal text-gray-600 dark:text-gray-300 text-xl">
-          Scratch — это визуальный язык программирования, разработанный в Массачусетском технологическом институте (MIT).
-          Он создан специально для того, чтобы дети могли легко и увлекательно осваивать основы программирования, создавая игры, анимации и интерактивные истории. 
-          Scratch помогает детям развивать креативность, логическое мышление и навыки решения задач через практическое обучение.
+          Мой подход — это не просто уроки, а путь к свободному и уверенному общению на английском.
+          Каждый ученик для меня — это отдельная история, и я подбираю подход, который работает именно для вас.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-3 gap-12 mt-8">
@@ -25,10 +24,10 @@ const WhyWe = () => {
               />
             </div>
             <div className="p-6 text-center leading-relaxed">
-              <h3 className="font-sans text-xl font-bold leading-relaxed text-blue-gray-900">Развивает креативность и воображение</h3>
+              <h3 className="font-sans text-xl font-bold leading-relaxed text-blue-gray-900">Опыт</h3>
               <p className="font-sans text-sm leading-normal text-gray-700 opacity-75 text-xl">
-              Scratch позволяет детям создавать свои собственные истории, анимации и игры, превращая их идеи в интерактивные проекты. 
-              Такой подход вдохновляет на творчество и помогает выражать себя через программирование.
+              За 10+ лет преподавания я работал с людьми из разных стран и возрастов — от подростков до бизнесменов. 
+              Знаю, как объяснить сложное простым языком и сделать урок живым и интересным.
               </p>
             </div>
           </div>
@@ -43,10 +42,10 @@ const WhyWe = () => {
               />
             </div>
             <div className="p-6 text-center leading-relaxed">
-              <h3 className="font-sans text-xl font-bold leading-relaxed text-blue-gray-900">Учит решать задачи и логически мыслить</h3>
+              <h3 className="font-sans text-xl font-bold leading-relaxed text-blue-gray-900">Почему я этим занимаюсь</h3>
               <p className="font-sans text-sm leading-normal text-gray-700 opacity-75 text-xl">
-              Постепенное создание проектов помогает детям разбивать сложные задачи на этапы, логически мыслить и находить ошибки. 
-              Эти навыки важны не только в программировании, но и в повседневной жизни.
+              Я сам проходил путь изучения языков и понимаю, какие трудности могут быть. 
+              Мне нравится помогать людям преодолевать языковой барьер и видеть, как у них появляется уверенность в общении.
               </p>
             </div>
           </div>
@@ -61,10 +60,10 @@ const WhyWe = () => {
               />
             </div>
             <div className="p-6 text-center leading-relaxed">
-              <h3 className="font-sans text-xl font-bold leading-relaxed text-blue-gray-900">Формирует прочную базу в основах программирования</h3>
+              <h3 className="font-sans text-xl font-bold leading-relaxed text-blue-gray-900">Подход</h3>
               <p className="font-sans text-sm leading-normal text-gray-700 opacity-75 text-xl">
-              Scratch знакомит детей с основными концепциями программирования, такими как циклы, условия и переменные, в простой и наглядной форме. 
-              Дети осваивают эти понятия естественно, создавая проекты, что подготавливает их к более сложным языкам в будущем.
+              Никаких скучных учебников — только живой разговор, реальные темы и персональный подход. 
+              Мы говорим, слушаем, разбираем ситуации из жизни и сразу применяем язык на практике.
               </p>
             </div>
           </div>

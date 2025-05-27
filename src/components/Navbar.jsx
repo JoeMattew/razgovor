@@ -9,20 +9,20 @@ const Navbar = () => {
         {/* Logo on the left (always stays on the left) */}
         <div className="flex items-center">
           <div className="h-10 w-auto mr-2">
-            <img className="h-full w-auto" src={logo1} alt="Logo" />
+            {/* <img className="h-full w-auto" src={logo1} alt="Logo" /> */}
           </div>
         </div>
         
         {/* KidCode text: centered on large/medium screens, moved to the right on small screens */}
         <div className="flex-grow text-right sm:text-center">
-          <span className="text-xl font-bold no-underline text-black">Teacher Marat</span>
+          <span className="text-xl font-bold no-underline text-black">Разговорный Английский</span>
         </div>
 
         {/* Links: visible on medium and large screens, hidden on small screens */}
         <div className="hidden sm:flex items-center">
           
           {/* <a href="#about-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Обо мне</a> */}
-          <a href="#whywe-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Scratch</a>
+          {/* <a href="#whywe-section" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Scratch</a> */}
           {/* <a href="#" className="text-md no-underline text-black hover:text-blue-500 ml-2 px-1">Процедура</a> */}
         </div>
       </nav>
